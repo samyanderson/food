@@ -1,14 +1,13 @@
-{
-  "location": {
-    "entity_type": "subzone",
-    "entity_id": 109,
-    "title": "ITO",
-    "latitude": "28.6324110000",
-    "longitude": "77.2408560000",
-    "city_id": 1,
-    "city_name": "Delhi NCR",
-    "country_id": 1,
-    "country_name": "India"
-  },
-  
+
     
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
