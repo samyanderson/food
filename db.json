@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Siomay" },
-    { "id": 2, "title": "Batagor" },
-    { "id": 3, "title": "Indomie" }
+    { "id": 1, "title": "PPW" },
+    { "id": 2, "title": "SDA" },
+    { "id": 3, "title": "POKAjg" }
   ],
   "comments": [
     { "id": 1, "body": "Siomay Bandung Enak", "postId": 1 },
